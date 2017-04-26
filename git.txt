@@ -1,7 +1,7 @@
-hello
+ï»¿hello
 git reset --hard fe0bb4b
-Ò»¸ö·ÖÖ§ ÀàËÆÒ»¸öÐÂÓÃ»§
-·ÖÖ§ºÏ²¢£ºÔÚÆäËü·ÖÖ§ÏÂÐÞ¸ÄÄÚÈÝ²¢Commitºó£¬Òª½øÐÐÍ¬²½²Ù×÷
-github.com/ÓÃ»§Ãû
+ä¸€ä¸ªåˆ†æ”¯ ç±»ä¼¼ä¸€ä¸ªæ–°ç”¨æˆ·
+åˆ†æ”¯åˆå¹¶ï¼šåœ¨å…¶å®ƒåˆ†æ”¯ä¸‹ä¿®æ”¹å†…å®¹å¹¶CommitåŽï¼Œè¦è¿›è¡ŒåŒæ­¥æ“ä½œ
+github.com/ç”¨æˆ·å
 master1
 zz

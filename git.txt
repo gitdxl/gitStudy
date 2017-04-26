@@ -1,3 +1,5 @@
 hello
 git reset --hard fe0bb4b
 一个分支 类似一个新用户
+master1
+zz
